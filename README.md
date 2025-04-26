@@ -32,5 +32,7 @@ Core Workflow
 The genereate_clarifying_question is a sepereate api endpoint and not part of the workflow graph
 
 
+The langGraph workFlow_diagram to better understand it
 
+![Research Workflow Diagram](https://raw.githubusercontent.com/Elix-TMOV/Simple-Deep-Research/master/workflow%20diagram.png)
   
